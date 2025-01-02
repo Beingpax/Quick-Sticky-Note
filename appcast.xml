@@ -5,8 +5,8 @@
         <item>
             <title>0.31</title>
             <pubDate>Thu, 02 Jan 2025 21:32:50 +0545</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>0.31</sparkle:shortVersionString>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.32</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Beingpax/QuickStickyNote/releases/download/v0.31/Quick.Sticky.Notes.dmg" length="5055081" type="application/octet-stream" sparkle:edSignature="wq3vKT7uc1I+PH8LEcAPyafzkxaAeUxFCGv6QazU4GSec617wYfeAESycLOfTNXGyeegZ5W9jkkYUw9RH7gsBQ=="
         </item>
