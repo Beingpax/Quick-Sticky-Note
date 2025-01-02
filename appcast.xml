@@ -10,8 +10,8 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure 
                 url="https://github.com/Beingpax/QuickStickyNote/releases/download/v0.31/Quick.Sticky.Notes.dmg" 
-                sparkle:edSignature="RA2vLZ8/H9pBiMT61ABuaGJOuv7B0WOeum8qRbPMKazy5OL6wicZgz97tAdDDiWd7mgsnl2R4tOvpfvQYrmWDg=="
-                length="5012539" 
+                sparkle:edSignature="I/JAh/vzhlSW1lmMNBAPrQaempF15TRdpc+cYjG/i0fBvU2wx/lA+y/UBLwHbSUBhF6vcq7LEB2fJUSC9a/6AQ==" 
+                length="5012647"
                 type="application/octet-stream"/>
         </item>
     </channel>
